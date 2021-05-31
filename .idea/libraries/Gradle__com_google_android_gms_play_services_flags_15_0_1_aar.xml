@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-flags:15.0.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../OTP/.gradle/7.0-milestone-1/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/d2dad0fbb91c5558cb50da4d23cd4105/res" />
+      <root url="jar://$PROJECT_DIR$/../../../OTP/.gradle/7.0-milestone-1/caches/transforms-2/files-2.1/72a8c55c603351a114731705a78a81ac/play-services-flags-15.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../OTP/.gradle/7.0-milestone-1/caches/transforms-2/files-2.1/72a8c55c603351a114731705a78a81ac/play-services-flags-15.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../OTP/.gradle/7.0-milestone-1/caches/transforms-2/files-2.1/72a8c55c603351a114731705a78a81ac/play-services-flags-15.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
